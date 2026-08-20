@@ -1,0 +1,4 @@
+Please ensure you have a working copy of MATLAB installed on your PC
+Download dataset to your PC
+Modify script to ensure filepath is pointing to your download directory
+Run script  and verify output
